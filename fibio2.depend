@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1426107213 source:c:\users\risto\cblocks\fibio2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1426108156 source:c:\users\risto\cblocks\fibio2lap\main.c
+	<stdio.h>
+	<stdlib.h>
+
